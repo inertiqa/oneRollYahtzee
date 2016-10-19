@@ -12,7 +12,7 @@ do {
 	diceToss[0] = random();
 	diceToss[1]++;
 }
-while (diceToss[0] != 1);
+while (diceToss[0] != 666);
 
 // Displays stats when you get a positive
 console.log = "Yahtzee took "  + diceToss[1] + " throws!";
