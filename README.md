@@ -1,6 +1,6 @@
 # yahtzee.js
 
-Inspired by this Numerophile video: https://www.youtube.com/watch?v=fiTwar7mFws I created this script that removes all the tedious work and leaves you with just the data.
+- [Inspired by this Numerophile video:](https://www.youtube.com/watch?v=fiTwar7mFws "Youtube link"), I created this script that removes all the tedious work and leaves you with just the data.
 
 A week after completion, I realized I could archieve the same thing comparing two random numbers:
 - If there's a 1 in 1296 to get a one roll yahtzee, then a one roll yahtze is equal to get a lucky number in 1296.
