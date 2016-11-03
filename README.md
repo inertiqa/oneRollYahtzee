@@ -9,7 +9,7 @@ Which eliminates all the logic required to manage, count, store and sort and eve
 
 The line count went down from 106 to 6 (94.3% smaller). That's what you'll find in compressed.js
 
-- Expanded .js working demo: https://repl.it/ENgb
-- Full fledged This is [an example](http://example.com/ "Title") js. demo.
+- Expanded .js working demo: 
+- [Full fledged js. demo](https://repl.it/ENgb "Expanded").
 - Compressed .js working demo: https://repl.it/ENfh
 - ZX Spectrum BASIC demo: https://www.youtube.com/watch?v=vba4_Cc9QYI
