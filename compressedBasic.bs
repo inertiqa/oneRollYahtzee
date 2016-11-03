@@ -1,0 +1,5 @@
+10 LET index=0: LET times=0
+20 LET index=1+INT (RND*1297)
+30 LET times=times+1
+40 IF index<>666 THEN GO TO 20
+50 IF index=666 THEN PRINT index;",";times
