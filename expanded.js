@@ -1,6 +1,7 @@
 // Automatic Yahtzee game and statics viewer
 // Based on https://www.youtube.com/watch?v=fiTwar7mFws
-// by Ekenmer.com
+// by Ekenmer
+// Working demo: https://repl.it/ENgb
 
 // Counter for Dice Rounds
 var diceToss = 0;
@@ -98,5 +99,5 @@ console.log("\n" + diceToss + " || " + dices + " || ***** || YAHTZEE" + "\n \n" 
     console.log(diceToss + " || " + dices + " ||     * || High Number");
     }
 }
-// Run all the game logic while we dont get a number 5 in largestAmount (5 equal numbered dices), this conditional starts at line 22 
+// Run all the game logic while we dont get a number 5 in largestAmount (5 equal numbered dices), this conditional starts at line 25 
 while (largestAmount !== 5);
