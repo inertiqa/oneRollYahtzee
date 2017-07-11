@@ -1,4 +1,4 @@
-1 REM Demo: https://www.youtube.com/watch?v=vba4_Cc9QYI
+1 REM Author: OOQQ
 10 LET times=0
 20 LET index=1+INT (RND*1297)
 30 LET times=times+1
