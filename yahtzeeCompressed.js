@@ -1,4 +1,4 @@
-var diceToss = [0,0]; // Counter // Working Demo: https://repl.it/ENfh
+var diceToss = [0,0]; // Counter // by OOQQ
 let random = () => Math.floor(Math.random() * 1296 + 1); // 1 in 1296 random generator
 do { diceToss[0] = random(); // Random number stored in array index 0 						-Loop Starts
 	diceToss[1]++; // Increases dice counter by 1
