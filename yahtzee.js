@@ -1,7 +1,6 @@
 // Automatic Yahtzee game and statics viewer
 // Based on https://www.youtube.com/watch?v=fiTwar7mFws
 // by OOQQ
-// Working demo: https://repl.it/JX6Y
 
 // Counter for Dice Rounds
 var diceToss = 0;
