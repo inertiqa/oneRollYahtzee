@@ -8,5 +8,5 @@ Which eliminates the need of manage, count, store and sort and everything else.
 The line count went down from 106 to 6 (94.3% smaller). That's what you'll find in compressed.js
 
 - [ZX Spectrum Compressed BASIC demo](https://www.youtube.com/watch?v=vba4_Cc9QYI "Compressed BASIC"). 03/11/2016
-- [Compressed js. demo](https://repl.it/ENfh "Compressed .js"). 11/06/2015
-- [Full fledged js. demo](https://repl.it/ENgb "Expanded .js"). 04/06/2015
+- [Compressed js. demo](https://repl.it/@OOQQ/max-compressed-yahtzee-solver "Compressed .js"). 11/06/2015
+- [Full fledged js. demo](https://repl.it/@OOQQ/fully-fledged-yahtzee-solver "Expanded .js"). 04/06/2015
