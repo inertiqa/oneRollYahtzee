@@ -2,6 +2,7 @@
 10 LET times=0
 20 LET index=1+INT (RND*1297)
 30 LET times=times+1
-40 PRINT index: POKE 23692,255
-50 IF index<>666 THEN GO TO 20
-60 IF index=666 THEN PRINT ;"yahtzee in ";times;" rolls";
+40 REM POKE prevents scroll? to appear
+50 PRINT index: POKE 23692,0 
+60 IF index<>666 THEN GO TO 20
+70 IF index=666 THEN PRINT ;"yahtzee in ";times;" rolls";
